@@ -65,3 +65,4 @@ function showHoroscope(){
         window.alert('pisces')
     }
 }
+// completed with the help of Michael Kazin during community hours
